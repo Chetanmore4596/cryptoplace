@@ -28,7 +28,33 @@ CryptoPlace is a modern, responsive React web application that lets users explor
 Example:
 
 | **Dashboard Page** | **Coin-Detail Page** |  
-|---------------|----------------------|  
+|-------------------|--------------------|  
 | ![Dashboard Page](./Scrennshot/Dashboard.png) | ![Coin-Detail page](./Scrennshot/Coin_Detail.png) |  
 
+---
+
+## ⚡ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/Chetanmore4596/cryptoplace.git
+
+# 2️⃣ Navigate to the project folder
+cd cryptoplace
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
+
+
+---
+
+## 🧑‍💻 Devloped By  
+
+👤 **Chetan More**  
+🔗 [LinkedIn](https://www.linkedin.com/in/chetan-more-b489b02a8) 
 

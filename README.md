@@ -27,7 +27,8 @@ CryptoPlace is a modern, responsive React web application that lets users explor
 
 Example:
 
-| **Dashboard Page** | **Coin-Detail Dashboard** |  
+| **Dashboard Page** | **Coin-Detail Page** |  
 |---------------|----------------------|  
 | ![Dashboard Page](./Scrennshot/Dashboard.png) | ![Coin-Detail page](./Scrennshot/Coin_Detail.png) |  
+
 

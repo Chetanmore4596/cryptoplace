@@ -29,4 +29,5 @@ Example:
 
 | **Dashboard Page** | **Coin-Detail Dashboard** |  
 |---------------|----------------------|  
-| ![Dashboard Page](./Scrennshot/Dashboard.png) | ![Principal Homepage](./Scrennshot/Coin_Detail.png) |  
+| ![Dashboard Page](./Scrennshot/Dashboard.png) | ![Coin-Detail page](./Scrennshot/Coin_Detail.png) |  
+

@@ -56,5 +56,6 @@ npm run dev
 ## 🧑‍💻 Devloped By  
 
 👤 **Chetan More**  
-🔗 [LinkedIn](https://www.linkedin.com/in/chetan-more-b489b02a8) 
+🔗 [LinkedIn](https://www.linkedin.com/in/chetan-more4596/)
+
 
